@@ -6,7 +6,7 @@
 ---
 
 ### 🧩 About Me  
-- 🌱 Currently exploring **Next.js**, **TypeScript**, and **advanced React patterns**  
+- 🌱 Currently exploring **Next.js**, **Node**,  **Express**,  **TypeScript**, and **advanced React patterns**  
 - 🎨 Love creating **beautiful and smooth UIs** with **Tailwind CSS** & **Hooks**  
 - 🔗 Experienced with **API integration**, **state management**, and **frontend optimization**  
 - 💬 Worked on multiple **internships** to sharpen full-stack and frontend skills  
